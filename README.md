@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heinkhantphyoe
 - 👀 I’m interested in Java language.
-- 🌱 I’m currently learning  Spring framework with Angular and others fronted-end technologies,
+- 🌱 I’m currently learning  Spring framework and others fronted-end technologies,
 - 💞️ I’m looking to collaborate on java base projects.
 - 📫 How to reach me https://hkp-portfolio.vercel.app/
 <!---
