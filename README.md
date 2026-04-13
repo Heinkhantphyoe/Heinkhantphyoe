@@ -1,25 +1,17 @@
-<!-- Profile README: HeinkhantPhyoe (Heinkhantphyoe) -->
-
-<h1 align="center">Hi 👋, I'm Heinkhant Phyoe</h1>
+<h1 align="center">Hi 👋, I'm Hein Khant Phyoe</h1>
 <h3 align="center">A passionate developer from Myanmar</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=741B47&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Open-source+enthusiast;Full-Stack+Developer;Lifelong+learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Heinkhantphyoe">
-    <img src="https://komarev.com/ghpvc/?username=Heinkhantphyoe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
 
----
 
 ## 🙋‍♂️ About Me
 
 - 💻 I’m a Full Stack Developer who loves tackling exciting challenges and contributing to open-source projects.
 - 🔭 I’m currently studying in **Software Engineering**
-- 🌱 I’m learning **[Java SpringBoot and some Frontend Technologies]**
+- 🌱 I’m learning **Java SpringBoot and some Frontend Technologies**
 - 👯 I’m looking to collaborate on **java-base projects**
 - 📫 How to reach me: **heinkhantphyoe.me**
 - ⚡ Fun fact: **I never stop exploring new tech!😎😎**
@@ -41,9 +33,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Heinkhantphyoe&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heinkhantphyoe&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 ---
