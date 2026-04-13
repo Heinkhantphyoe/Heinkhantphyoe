@@ -13,7 +13,7 @@
 - 🔭 I’m currently studying in **Software Engineering**
 - 🌱 I’m learning **Java SpringBoot and some Frontend Technologies**
 - 👯 I’m looking to collaborate on **java-base projects**
-- 📫 How to reach me: **heinkhantphyoe.me**
+- 📫 How to reach me: [heinkhantphyoe.me](https://heinkhantphyoe.me)
 - ⚡ Fun fact: **I never stop exploring new tech!😎😎**
 
 ---
@@ -27,10 +27,6 @@
 ---
 
 ## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heinkhantphyoe&show_icons=true&count_private=true&hide=issues&hide_rank=false&theme=algolia" alt="Heinkhantphyoe's GitHub stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Heinkhantphyoe&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
