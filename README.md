@@ -2,14 +2,14 @@
 <h3 align="center">A passionate developer from Myanmar</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=741B47&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Open-source+enthusiast;Full-Stack+Developer;Lifelong+learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=741B47&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Developer;Lifelong+learner" alt="Typing SVG" />
 </p>
 
 
 
 ## 🙋‍♂️ About Me
 
-- 💻 I’m a Full Stack Developer who loves tackling exciting challenges and contributing to open-source projects.
+- 💻 I’m a Full Stack Developer who loves tackling exciting challenges and building scalable web applications.
 - 🔭 I’m currently studying in **Software Engineering**
 - 🌱 I’m learning **Java SpringBoot and some Frontend Technologies**
 - 👯 I’m looking to collaborate on **java-base projects**
